@@ -5,7 +5,7 @@ import { useState } from "react";
 import Me from "../../public/me.png";
 
 export default function About() {
-  const [showNumber, setShowNumber] = useState(false);
+
   const fadeIn = {
     hidden: { opacity: 0 },
     visible: {
