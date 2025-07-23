@@ -1,5 +1,10 @@
 import { motion } from "framer-motion";
-
+import {
+  AiFillAliwangwang,
+  AiFillGithub,
+  AiFillWechat,
+  AiOutlineQq,
+} from "react-icons/ai";
 import Me from "../../public/me.png";
 
 export default function Main() {
